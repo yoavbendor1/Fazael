@@ -5,8 +5,9 @@ account: yoav-ben-dor
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3217095
-bundleId: 3851728
+bundleId: 3899239
 url: https://yoav-ben-dor.shinyapps.io/grain_size/
-when: 1605182353.71286
+when: 1606215837.37127
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: Fazael_grain_size.csv

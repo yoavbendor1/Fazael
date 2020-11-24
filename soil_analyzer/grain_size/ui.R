@@ -84,7 +84,7 @@ shinyUI(fluidPage(
                
                textInput(inputId="x_title",
                          label = h5("x title"),
-                         value="125um < x < 2mm"),
+                         value="coarse"),
                
                textInput(inputId="y_title",
                          label = h5("y title"),
@@ -92,7 +92,7 @@ shinyUI(fluidPage(
                
                textInput(inputId="z_title",
                          label = h5("z title"),
-                         value="63um < x"),
+                         value="silt"),
                
                sliderInput(inputId = "point_size",
                            label = h5("point size"),
